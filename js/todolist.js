@@ -1,7 +1,7 @@
 
 //To Add TableData
 document.getElementById('addtdbtn').onclick=()=>{
-      let addtd = document.getElementById('addtd').value;
+      let addttd = document.getElementById('addtd').value;
 
       let addtdata= document.getElementById('tabeldata');
       let td = document.createElement('td');
